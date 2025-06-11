@@ -1,4 +1,4 @@
-# 💳 Payment Fraud Detection System using Machine Learning
+# 💳 Fraudulent Payment Detection System using Machine Learning
 
 ## Project Overview
 This project implements a machine learning-based fraud detection system for online payment transactions. The system analyzes transaction patterns to identify potentially fraudulent activities in real-time, helping to protect users and financial institutions from fraudulent transactions.
